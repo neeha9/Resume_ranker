@@ -1,0 +1,6 @@
+streamlit>=1.57
+groq>=1.7
+pypdf
+python-docx
+pandas
+pydantic
